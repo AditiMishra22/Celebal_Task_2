@@ -23,7 +23,7 @@ Bootstrap 5
 To create virtual env --> Python -m venv Name_of_Virtual_env (for e.g. --> python -m venv myenv)  
 To activate --> Name_of_virtual_env/Scripts/activate (for e.g. --> myenv/Scripts/activate)
 
-## 🖥️ To Install Dependencies (Use any one command (first one recommended))
+## 🖥️ To Install Dependencies 
 pip install -r requirements.txt  
 
 
@@ -32,4 +32,4 @@ Check out the live deployed project here: [View Project on Render]()
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](static/Screenshot.png)
