@@ -20,15 +20,15 @@ CSS3
 Bootstrap 5
 
 ## 🔗 To Create Virtual Environment
-To create virtual env --> Python -m venv Name_of_Virtual_env (for e.g. --> python -m venv myenv)  
-To activate --> Name_of_virtual_env/Scripts/activate (for e.g. --> myenv/Scripts/activate)
+To create virtual env --> **Python -m venv Name_of_Virtual_env**(for e.g. --> python -m venv myenv)  
+To activate --> **Name_of_virtual_env/Scripts/activate** (for e.g. --> myenv/Scripts/activate)
 
 ## 🖥️ To Install Dependencies 
-pip install -r requirements.txt  
+**pip install -r requirements.txt** 
 
 
 ## Live Demo
-Check out the live deployed project here: [View Project on Render]()
+Check out the live deployed project here: [View Project on Render](https://celebal-task-2.onrender.com)
 
 ## 📸 Screenshot
 
